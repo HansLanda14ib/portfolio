@@ -14,8 +14,8 @@ const Education = () => {
             year: 2017,
         },
         {
-            title: 'Student Engineer, Software Development',
-            institution: 'EMSI',
+            title: 'Computer Engineering and Networks Student',
+            institution: 'EMSI Marrakesh',
             year: '2021 - Present',
         },
     ];

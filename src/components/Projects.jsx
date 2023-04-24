@@ -20,13 +20,19 @@ const Projects = () => {
             github: 'https://github.com/HansLanda14ib/miniprojet_biblio',
         },
         {
-            title: 'FFRM Fields and Reservation Management',
+            title: 'FFRM Football Field Reservation Management',
             description:
                 'A web application for managing fields and reservations using Django and React.',
             technologies: 'Django, React',
             github: 'https://github.com/users/voidnowhere/projects/13',
         },
-        // Add more projects here
+        {
+            title: 'Gym Management Desktop App',
+            description:
+                'A desktop application for managing Gym using Java',
+            technologies: 'JavaFx, Java',
+            github: 'https://github.com/HansLanda14ib',
+        },
     ];
 
 
