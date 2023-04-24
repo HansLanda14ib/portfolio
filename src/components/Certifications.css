@@ -1,0 +1,15 @@
+.certifications-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.certifications-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.certifications-row > .p-card {
+    flex: 0 0 auto;
+}
