@@ -4,10 +4,10 @@
     const Nav = ({ onNavClick }) => {
         return (
             <div className="nav">
-                <Button label="Accueil" onClick={() => onNavClick('home')} />
-                <Button label="Formations" onClick={() => onNavClick('education')} />
-                <Button label="Expériences" onClick={() => onNavClick('experience')} />
-                <Button label="Projets" onClick={() => onNavClick('projects')} />
+                <Button label="Home" onClick={() => onNavClick('home')} />
+                <Button label="Education" onClick={() => onNavClick('education')} />
+                <Button label="Experiences" onClick={() => onNavClick('experience')} />
+                <Button label="Projects" onClick={() => onNavClick('projects')} />
                 <Button label="Certifications" onClick={() => onNavClick('certifications')} />
             </div>
         );
